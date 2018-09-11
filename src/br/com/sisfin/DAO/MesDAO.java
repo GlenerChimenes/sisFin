@@ -55,9 +55,7 @@ public class MesDAO {
 		
 		return mes;
 		
-		if(!mes.getQualMes().equals("janeiro")){
-			
-		}
+		
 	}
 	
 }

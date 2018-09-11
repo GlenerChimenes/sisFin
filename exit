@@ -1,0 +1,62 @@
+[33mcommit 41c5317003b62e5b829f4457619043119e21642f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: unknown <Administrador@DESKTOP-BPSDFAC.rededor.corp>
+Date:   Thu Sep 6 16:19:24 2018 -0300
+
+    Iniciando sisFin no github
+
+:000000 100644 0000000 29d5c01 A	.classpath
+:000000 100644 0000000 aee0647 A	.project
+:000000 100644 0000000 92e666d A	.settings/.jsdtscope
+:000000 100644 0000000 0c68a61 A	.settings/org.eclipse.jdt.core.prefs
+:000000 100644 0000000 1a1f4f7 A	.settings/org.eclipse.wst.common.component
+:000000 100644 0000000 2be2137 A	.settings/org.eclipse.wst.common.project.facet.core.xml
+:000000 100644 0000000 3bd5d0a A	.settings/org.eclipse.wst.jsdt.ui.superType.container
+:000000 100644 0000000 05bd71b A	.settings/org.eclipse.wst.jsdt.ui.superType.name
+:000000 100644 0000000 254272e A	WebContent/META-INF/MANIFEST.MF
+:000000 100644 0000000 728746f A	WebContent/WEB-INF/lib/classmate-1.0.0.jar
+:000000 100644 0000000 c4c1c4f A	WebContent/WEB-INF/lib/commons-dbcp-1.4.jar
+:000000 100644 0000000 ab51254 A	WebContent/WEB-INF/lib/commons-logging-1.1.3.jar
+:000000 100644 0000000 72ca75a A	WebContent/WEB-INF/lib/commons-pool-1.6.jar
+:000000 100644 0000000 8639934 A	WebContent/WEB-INF/lib/hibernate-validator-5.0.2.Final.jar
+:000000 100644 0000000 a86a365 A	WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar
+:000000 100644 0000000 4b3b433 A	WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar
+:000000 100644 0000000 891989a A	WebContent/WEB-INF/lib/jboss-logging-3.1.1.GA.jar
+:000000 100644 0000000 068867e A	WebContent/WEB-INF/lib/log4j-1.2.17.jar
+:000000 100644 0000000 2f1b7ab A	WebContent/WEB-INF/lib/mysql-connector-java-5.1.28-bin.jar
+:000000 100644 0000000 8766455 A	WebContent/WEB-INF/lib/slf4j-api-1.7.5.jar
+:000000 100644 0000000 afce5c2 A	WebContent/WEB-INF/lib/slf4j-log4j12-1.7.5.jar
+:000000 100644 0000000 5f02123 A	WebContent/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar
+:000000 100644 0000000 a8b0957 A	WebContent/WEB-INF/lib/spring-aspects-4.0.0.RELEASE.jar
+:000000 100644 0000000 ae17d71 A	WebContent/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar
+:000000 100644 0000000 bcfcebb A	WebContent/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar
+:000000 100644 0000000 205d0d6 A	WebContent/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar
+:000000 100644 0000000 82069bf A	WebContent/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar
+:000000 100644 0000000 f593c01 A	WebContent/WEB-INF/lib/spring-jdbc-4.0.0.RELEASE.jar
+:000000 100644 0000000 f50593f A	WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar
+:000000 100644 0000000 2797115 A	WebContent/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar
+:000000 100644 0000000 de85403 A	WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar
+:000000 100644 0000000 a628547 A	WebContent/WEB-INF/spring-context.xml
+:000000 100644 0000000 8c28510 A	WebContent/WEB-INF/views/BemVindo.jsp
+:000000 100644 0000000 44fcb5a A	WebContent/WEB-INF/views/Menu1.jsp
+:000000 100644 0000000 667091d A	WebContent/WEB-INF/views/cadastroUsuario.jsp
+:000000 100644 0000000 eaaa052 A	WebContent/WEB-INF/views/escolhaMes.jsp
+:000000 100644 0000000 9727f1f A	WebContent/WEB-INF/views/login.jsp
+:000000 100644 0000000 7000f70 A	WebContent/WEB-INF/views/mostraMesEscolhido.jsp
+:000000 100644 0000000 a3a52c9 A	WebContent/WEB-INF/views/usuarioAdiconado.jsp
+:000000 100644 0000000 f62c2c2 A	WebContent/WEB-INF/web.xml
+:000000 100644 0000000 6513217 A	build/classes/br/com/sisfin/Connection/ConnectionFactory.class
+:000000 100644 0000000 93d396a A	build/classes/br/com/sisfin/Connection/TestaConexao.class
+:000000 100644 0000000 2a70dd8 A	build/classes/br/com/sisfin/DAO/MesDAO.class
+:000000 100644 0000000 090d82f A	build/classes/br/com/sisfin/DAO/UsuarioDAO.class
+:000000 100644 0000000 fb77db5 A	build/classes/br/com/sisfin/controller/UsuarioControle.class
+:000000 100644 0000000 476fb0f A	build/classes/br/com/sisfin/model/GastoUsuario.class
+:000000 100644 0000000 6eeca4c A	build/classes/br/com/sisfin/model/Mes.class
+:000000 100644 0000000 0e5576e A	build/classes/br/com/sisfin/model/Usuario.class
+:000000 100644 0000000 2db5e1e A	src/br/com/sisfin/Connection/ConnectionFactory.java
+:000000 100644 0000000 80bb8f6 A	src/br/com/sisfin/Connection/TestaConexao.java
+:000000 100644 0000000 96cb590 A	src/br/com/sisfin/DAO/MesDAO.java
+:000000 100644 0000000 e1ec885 A	src/br/com/sisfin/DAO/UsuarioDAO.java
+:000000 100644 0000000 a7d9b12 A	src/br/com/sisfin/controller/UsuarioControle.java
+:000000 100644 0000000 1641153 A	src/br/com/sisfin/model/GastoUsuario.java
+:000000 100644 0000000 0f30514 A	src/br/com/sisfin/model/Mes.java
+:000000 100644 0000000 33267fd A	src/br/com/sisfin/model/Usuario.java
