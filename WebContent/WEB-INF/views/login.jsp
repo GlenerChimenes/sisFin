@@ -9,7 +9,7 @@
 
 	<form action="adiciona" method="POST">
 	
-		
+		<center><h2>Login de usuário</h2></center>
 		E-mail: <input type="email" name="email"><br />
 		Senha:  <input type="password" name="senha"><br />
 		
