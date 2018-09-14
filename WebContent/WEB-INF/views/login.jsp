@@ -13,8 +13,8 @@
 		E-mail: <input type="email" name="email"><br />
 		Senha:  <input type="password" name="senha"><br />
 		
-		<input type="submit" value="Enviar">
-	
+		<input type="submit" value="Entrar no sistema">
+		<input type="reset" value="Limpar">
 	</form>
 
 </body>
