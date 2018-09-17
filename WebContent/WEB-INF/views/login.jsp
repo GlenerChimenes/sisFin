@@ -6,6 +6,7 @@
 <title>Sistema financeiro</title>
 </head>
 <body>
+<h3>Cabeçalho do site</h3>
 
 	<form action="adiciona" method="POST">
 
@@ -26,5 +27,6 @@
 
 	</form>
 
+<h3>Rodapé do site</h3>
 </body>
 </html>
