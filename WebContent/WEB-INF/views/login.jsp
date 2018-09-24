@@ -23,7 +23,7 @@
 	
 
 
-		 <input	type="submit" value="Enviar">
+		 <input	type="submit" value="Entrar">
 
 
 
