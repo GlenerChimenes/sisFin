@@ -6,6 +6,7 @@
 <title>Sistema financeiro</title>
 </head>
 <body>
+<h3>Cabeçalho do site</h3>
 
 	<form action="adiciona" method="POST">
 
@@ -18,10 +19,25 @@
 			<label>Senha</label> 
 			<input type="password" name="senha">
 		</div>
-		
-		 <input	type="submit" value="Enviar">
 
+	
+<<<<<<< HEAD
+
+
+		 <input	type="submit" value="Entrar">
+
+
+
+=======
+		<center><h2>Login de usuário</h2></center>
+		E-mail: <input type="email" name="email"><br />
+		Senha:  <input type="password" name="senha"><br />
+		
+		<input type="submit" value="Entrar no sistema">
+		<input type="reset" value="Limpar">
+>>>>>>> fea9c9f912a811812f9a3faaa51bd519cfaf24d0
 	</form>
 
+<h3>Rodapé do site</h3>
 </body>
 </html>

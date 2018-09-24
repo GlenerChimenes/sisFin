@@ -29,7 +29,7 @@
         
         <script type="text/javascript" src="<c:url value="/js/jquery.js"/>"> </script> 
         
-<title>Insert title here</title>
+<title>Bem vindo ao sisFin</title>
 </head>
 <body >
 
